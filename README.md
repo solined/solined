@@ -1,10 +1,8 @@
-## 👋 Hi, I’m Soline Durand (@solined)
 
-🔗 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
-
-### 💼 Who I am
+### 👋 Hi, I’m Soline Durand (@solined)
 
 Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  
+🔗 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
 
 > IT professional with 10+ years of experience in software development and backend projects.  
 > Specialized in **forensic analysis**, **automation workflows** and **data analysis**.
@@ -19,6 +17,9 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, API integration  
 - **Development & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
 - **Data Analysis & Reporting** : structured pipelines, extraction, interpretation, automated reporting
+
+🇫🇷 French Version : [README FR](./README_FR.md)
+
 
 ---
 

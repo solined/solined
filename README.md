@@ -1,7 +1,6 @@
 *[🇫🇷](./README_FR.md)*
 
- 👋 Hi, I’m Soline Durand (@solined)
-## **Digital Forensic Analyst | Automation, DevOps & Data**
+## 👋 Hi, I’m Soline Durand (@solined) – Digital Forensic Analyst | Automation, DevOps & Data**
 
 IT professional with 10+ years in backend development.  
 Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.

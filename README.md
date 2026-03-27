@@ -1,4 +1,4 @@
-*🇫🇷 [French Version](./README_FR.md)*
+*[🇫🇷](./README_FR.md)*
 
 ### 👋 Hi, I’m Soline Durand (@solined)
 **Digital Forensic Analyst | Automation, DevOps & Data**

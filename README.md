@@ -5,7 +5,7 @@
 
 IT professional with 10+ years in backend development.  
 > IT professional with 10+ years of experience in software development and backend projects. 
-Specialized in **forensic analysis**, **automation workflows**, **data analysis**, and **reporting**.
+Specialized in **forensic analysis**, **automation workflows**, **data analysis**, and **technical reporting**.
  
  and **data analysis**.
 ### 🛠 Skills & Expertise

@@ -8,7 +8,28 @@ Available 2 days/week remote (Occitanie / Toulouse hybrid possible)
 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**  
 
 ---
+### 👋 Hi, I’m Soline Durand (@solined)
 
+> IT professional with 10+ years in backend development. Specialized in forensic analysis, automation workflows, data pipelines, and reporting.
+
+### 🛠 Skills & Expertise
+- **Digital Forensic Analysis**: Autopsy, Sleuth Kit, timeline & artefact extraction  
+- **Automation & DevOps**: n8n, GitHub Actions (CI/CD), Docker, API integration  
+- **Development & Backend**: PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
+- **Data Analysis & Reporting**: structured pipelines, extraction, interpretation, automated reporting
+
+### 🔥 Highlights / Projects
+- **API Portfolio (Symfony)** – CRUD REST, OpenAPI, Docker, services, validation  
+- **n8n Workflows & Automation** – triggers, HTTP, error handling, retries, pagination  
+- **Mini-Forensic / Data & OSINT Analysis** – Autopsy, Sleuth Kit, timelines, artefacts extraction
+
+### 🌐 Social / Links
+- [LinkedIn](https://www.linkedin.com/in/soline-durand)  
+- [Malt](https://www.malt.fr/profile/solinedurand)  
+- [Dev.to](https://dev.to/solined)  
+- [Medium](https://medium.com/@solined_jobit)
+
+---
 ### 👋 Hi, I’m Soline Durand (@solined)
 
 Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  

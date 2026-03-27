@@ -1,4 +1,4 @@
-
+🇫🇷 French Version : [README FR](./README_FR.md)
 ### 👋 Hi, I’m Soline Durand (@solined)
 
 Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  

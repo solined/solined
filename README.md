@@ -1,4 +1,14 @@
 🇫🇷 French Version : [README FR](./README_FR.md)
+
+---
+👋 Hi, I’m Soline Durand (@solined)
+
+Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting 
+Available 2 days/week remote (Occitanie / Toulouse hybrid possible)  
+**[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**  
+
+---
+
 ### 👋 Hi, I’m Soline Durand (@solined)
 
 Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  

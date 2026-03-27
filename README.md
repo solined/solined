@@ -1,4 +1,4 @@
-*🇫🇷 French Version : [README FR](./README_FR.md)*
+*[🇫🇷 French Version](./README_FR.md)*
 
 ---
 ### 👋 Hi, I’m Soline Durand (@solined)

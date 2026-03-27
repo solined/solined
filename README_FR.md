@@ -16,7 +16,7 @@ Analyste Forensic Numérique | Automation, DevOps & Data | Dev Backend PHP/Symfo
 - **Analyse Forensic** : Autopsy, Sleuth Kit, timelines, extraction et interprétation d’artefacts numériques  
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, intégration API  
 - **Développement & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, API REST  
-- **Analyse de données & Reporting** : pipelines structurés, extraction, interprétation (de preuves) et automatisation des rapports  
+- **Analyse de données & Reporting** : pipelines structurés, extraction, interprétation et automatisation des rapports  
 
 ---
 

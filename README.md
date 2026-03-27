@@ -2,12 +2,11 @@
 
 ---
 ### 👋 Hi, I’m Soline Durand (@solined)
+Digital Forensic Analyst | Automation, DevOps & Data
 
 IT professional with 10+ years in backend development.  
-> IT professional with 10+ years of experience in software development and backend projects. 
-Specialized in **forensic analysis**, **automation workflows**, **data analysis**, and **technical reporting**.
+Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
  
- and **data analysis**.
 ### 🛠 Skills & Expertise
 - **Digital Forensic Analysis**: Autopsy, Sleuth Kit, timeline & artefact extraction  
 - **Automation & DevOps**: n8n, GitHub Actions (CI/CD), Docker, API integration  
@@ -112,3 +111,4 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 solined/solined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---  --->

@@ -1,6 +1,6 @@
 *[🇫🇷](./README_FR.md)*
 
-### 👋 Hi, I’m Soline Durand (@solined)
+## 👋 Hi, I’m Soline Durand (@solined)
 **Digital Forensic Analyst | Automation, DevOps & Data**
 
 IT professional with 10+ years in backend development.  

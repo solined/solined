@@ -17,13 +17,7 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 - **Digital Forensic & Post-Mortem Analysis** : Autopsy, Sleuth Kit, timeline & artefact extraction  
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, API integration  
 - **Development & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
-- **Data Analysis & Reporting** : structured pipelines, extraction, interpretation, automated reporting  
-
----
-### 🌱 Currently Learning / Improving
-- Python & C++ (forensic & data pipelines)
-- n8n workflows for automation & forensic
-- Advanced data analysis & evidence interpretation
+- **Data Analysis & Reporting** : structured pipelines, extraction, (evidence) interpretation, automated reporting
 
 ---
 

@@ -1,45 +1,75 @@
-# 👋 Hi, I’m Soline Durand (@solined)
+<!---## 👋 Bonjour, je suis Soline Durand
+
+🔗 **Portfolio : [Portfolio Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
+
+---
+
+### 💼 Qui je suis
+Analyste Forensic Numérique | Automation, DevOps & Data | Développeuse Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  
+
+> Professionnelle IT avec plus de 10 ans d’expérience en développement logiciel et projets backend. Je suis spécialisée en **analyse forensic**, **automation workflows** et **analyse de données**.
+
+---
+
+### 🛠 Compétences & Expertise
+- **Analyse Forensic** : Autopsy, Sleuth Kit, timelines, extraction et interprétation d’artefacts numériques  
+- **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, intégration API  
+- **Développement & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, API REST  
+- **Analyse de données & Reporting** : pipelines structurés, extraction, interprétation et automatisation des rapports  
+
+---
+
+### 🌐 Liens / Réseaux
+[<img src="./assets/icons/linkedin-color.png" width="24"/> LinkedIn](https://www.linkedin.com/in/soline-durand)  
+[<img src="./assets/icons/malt-color.png" width="24"/> Malt](https://www.malt.fr/profile/solinedurand)  
+[<img src="./assets/icons/devto-color.png" width="24"/> Dev.to](https://dev.to/solined)  
+[<img src="./assets/icons/medium-color.png" width="24"/> Medium](https://medium.com/@solined_jobit)
+--->
+
+
+## 👋 Hi, I’m Soline Durand (@solined)
 
 🔗 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
----
 
-## 💼 Who I am
+### 💼 Who I am
+
 Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  
 
+> IT professional with 10+ years of experience in software development and backend projects.  
+> Specialized in **forensic analysis**, **automation workflows** and **data analysis**.
+
+<!---
 > Professionnelle IT avec 10+ ans d’expérience en développement logiciel et projets backend. Actuellement spécialisée en **forensic post-mortem**, **automation workflows** et **analyse de données**.
+--->
 
----
-
-## 🛠 Skills & Expertise
+### 🛠 Skills & Expertise
 - **Digital Forensic & Post-Mortem Analysis** : Autopsy, Sleuth Kit, timeline & artefact extraction  
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, API integration  
 - **Development & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
 - **Data Analysis & Reporting** : structured pipelines, extraction, interpretation, automated reporting  
 
 ---
----
-
-## 🌱 Currently Learning / Improving
+### 🌱 Currently Learning / Improving
 - Python & C++ (forensic & data pipelines)
 - n8n workflows for automation & forensic
 - Advanced data analysis & evidence interpretation
 
 ---
 
-## 💞️ I’m looking to collaborate
+### 💞️ I’m looking to collaborate
 - Digital Forensic analysis projects
 - Automation workflows & data pipelines
 - Open source tools in cybersecurity / data analysis
 
 ---
 
-## 📫 How to reach me
+### 📫 How to reach me
 - ✉️ jobit.solined@gmail.com  
 - 🌍 France (Remote preferred, hybrid Toulouse possible)  
 
 ---
 
-## 🔗 Portfolio & Projects
+### 🔗 Portfolio & Projects
 - [Portfolio Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
 
 ### Highlights
@@ -49,11 +79,13 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 
 ---
 
-## 🌐 Social / Links
+### 🌐 Social / Links
 - 🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
 - 🔗 [Malt](https://www.malt.fr/profile/solinedurand)  
 - 🔗 [Dev.to](https://dev.to/solined)  
 - 🔗 [Medium](https://medium.com/@solined_jobit)
+
+
 <!---
 ## 🌐 Social / Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soline-durand)  
@@ -73,6 +105,8 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 
 [![Malt](https://img.shields.io/badge/Malt-FF2B06?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/solinedurand)
 --->
+
+
 <!---
 solined/solined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -10,11 +10,12 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 > Specialized in **forensic analysis**, **automation workflows** and **data analysis**.
 
 <!---
-> Professionnelle IT avec 10+ ans d’expérience en développement logiciel et projets backend. Actuellement spécialisée en **forensic post-mortem**, **automation workflows** et **analyse de données**.
+> IT professional with 10+ years in backend development.  
+> Specialized in **forensic analysis**, **automation workflows** and **data analysis**.
 --->
 
 ### 🛠 Skills & Expertise
-- **Digital Forensic & Post-Mortem Analysis** : Autopsy, Sleuth Kit, timeline & artefact extraction  
+- **Digital Forensic Analysis** : Autopsy, Sleuth Kit, timeline & artefact extraction  
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, API integration  
 - **Development & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
 - **Data Analysis & Reporting** : structured pipelines, extraction, interpretation, automated reporting
@@ -41,7 +42,8 @@ Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony |
 - **API Portfolio (Symfony)** – CRUD REST, OpenAPI, Docker, services, validation
 - **n8n Workflows & Automation** – triggers, HTTP, error handling, retries, pagination
 - **Mini-Forensic / Data Analysis** – Autopsy, Sleuth Kit, timelines, artefacts extraction
-
+- **Data & OSINT Analysis** : project birds migration
+- 
 ---
 
 ### 🌐 Social / Links

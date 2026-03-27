@@ -7,8 +7,15 @@
 ## 💼 Qui je suis
 Analyste Forensic Numérique | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  
 
-> Professionnelle IT avec plus de 10 ans d’expérience en développement logiciel et projets backend.  
-> Spécialisée en **analyse forensic**, **automation workflows** et **analyse de données**.
+Professionnelle IT avec plus de 10 ans d’expérience en développement logiciel et projets backend.  
+Spécialisée en **analyse forensic**, **automatisation de workflows**, **analyse de données** et **rédaction de rapports techniques**.
+
+📄 Concrètement, :
+- rapports d’analyse disque / mémoire
+- timelines d’événements
+- interprétation des artefacts
+- conclusions argumentées
+- parfois utilisables en justice ou assurance
 
 ---
 

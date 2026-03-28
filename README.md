@@ -33,10 +33,10 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 ---
 
 ### 🌐 Social / Links
-🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
-🔗 [Malt](https://www.malt.fr/profile/solinedurand)  
-🔗 [Dev.to](https://dev.to/solined)  
-🔗 [Medium](https://medium.com/@solined_jobit)
+- [LinkedIn](https://www.linkedin.com/in/soline-durand)  
+- [Malt](https://www.malt.fr/profile/solinedurand)  
+- [Dev.to](https://dev.to/solined)  
+- [Medium](https://medium.com/@solined_jobit)
 
 <!---## 👋 Hi, I’m Soline Durand (@solined) – 
 ## 👋 Hi, I’m Digital Forensic Analyst – Automation, DevOps & Data

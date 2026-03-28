@@ -23,7 +23,22 @@ Spécialisée en **investigation numérique (forensic)**, **automatisation de wo
 - **Développement & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, API REST  
 - **Analyse de données & Reporting** : pipelines structurés, extraction, interprétation et automatisation des rapports  
 <!---- **Investigation numérique (forensic)** : analyse d’images disque, artefacts, timeline (Autopsy, Sleuth Kit)  --->
+
 ---
+
+### 🔥 Points forts / Projets
+- **API Portfolio (Symfony)** – CRUD REST, OpenAPI, Docker, services, validation  
+- **n8n Workflows & Automation** – triggers, HTTP, gestion d'erreurs, retries, pagination  
+- **Mini-Forensic / Data & OSINT Analysis** – Autopsy, Sleuth Kit, timelines, extraction d'artefacts 
+
+### 💼 Open to opportunities
+- Missions d’analyse forensic numérique  
+- Workflows d’automatisation & pipelines de données  
+- Projets d’analyse technique et de reporting  
+
+### 📫 Comment me contacter
+- ✉️ jobit.solined@gmail.com  
+- 🌍 France (Remote prioritaire, hybride Toulouse possible)
 
 ### 🌐 Liens / Réseaux
 [<img src="./assets/icons/linkedin-color.png" width="24"/> LinkedIn](https://www.linkedin.com/in/soline-durand)  

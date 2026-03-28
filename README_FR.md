@@ -31,7 +31,7 @@ Spécialisée en **investigation numérique (forensic)**, **automatisation de wo
 - **n8n Workflows & Automation** – triggers, HTTP, gestion d'erreurs, retries, pagination  
 - **Mini-Forensic / Data & OSINT Analysis** – Autopsy, Sleuth Kit, timelines, extraction d'artefacts 
 
-### 💼 Open to opportunities
+### 💼 Ouverte aux opportunités
 - Missions d’analyse forensic numérique  
 - Workflows d’automatisation & pipelines de données  
 - Projets d’analyse technique et de reporting  

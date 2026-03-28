@@ -23,12 +23,6 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 - **n8n Workflows & Automation** – triggers, HTTP, error handling, retries, pagination  
 - **Mini-Forensic / Data & OSINT Analysis** – Autopsy, Sleuth Kit, timelines, artefacts extraction
 
-### 🌐 Social / Links
-- [LinkedIn](https://www.linkedin.com/in/soline-durand)  
-- [Malt](https://www.malt.fr/profile/solinedurand)  
-- [Dev.to](https://dev.to/solined)  
-- [Medium](https://medium.com/@solined_jobit)
-
 ---
 
 ### 💞️ I’m looking to collaborate

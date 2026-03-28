@@ -9,7 +9,9 @@
 ## Digital Forensic Analyst – *Automation, DevOps & Data 💻 Backend Dev*
 IT professional with 10+ years in backend development.  
 Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
- 
+
+🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
+
 ### 🛠 Skills & Expertise
 - **Digital Forensic Analysis**: Autopsy, Sleuth Kit, timeline & artefact extraction  
 - **Automation & DevOps**: n8n, GitHub Actions (CI/CD), Docker, API integration  
@@ -26,35 +28,6 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 - [Malt](https://www.malt.fr/profile/solinedurand)  
 - [Dev.to](https://dev.to/solined)  
 - [Medium](https://medium.com/@solined_jobit)
-
----
-👋 Hi, I’m Soline Durand (@solined)
-
-Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting  
-Available 2 days/week remote (Occitanie / Toulouse hybrid possible)  
-**[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**  
----
-### 👋 Hi, I’m Soline Durand (@solined)
-
-Digital Forensic Analyst | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  
-🔗 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
-
-> IT professional with 10+ years of experience in software development and backend projects.  
-> Specialized in **forensic analysis**, **automation workflows** and **data analysis**.
-
-<!---
-> IT professional with 10+ years in backend development.  
-> Specialized in **forensic analysis**, **automation workflows** and **data analysis**.
---->
-
-### 🛠 Skills & Expertise
-- **Digital Forensic Analysis** : Autopsy, Sleuth Kit, timeline & artefact extraction  
-- **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, API integration  
-- **Development & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
-- **Data Analysis & Reporting** : structured pipelines, extraction, interpretation, automated reporting
-
-🇫🇷 French Version : [README FR](./README_FR.md)
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Digital Forensic Analyst – *Automation, DevOps & Data (+ Dev)*
 #### IT professional with 10+ years in backend development.  
-#### Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
+Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
 
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
 

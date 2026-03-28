@@ -17,26 +17,21 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 - **n8n Workflows & Automation** – triggers, HTTP, error handling, retries, pagination  
 - **Mini-Forensic / Data & OSINT Analysis** – Autopsy, Sleuth Kit, timelines, artefacts extraction
 
----
-
 ### 💼 Open to opportunities
 - Digital forensic analysis missions  
 - Automation workflows & data pipelines  
 - Technical analysis & reporting projects  
 
----
-
 ### 📫 How to reach me
 - ✉️ jobit.solined@gmail.com  
 - 🌍 France (Remote preferred, hybrid Toulouse possible)  
-
----
 
 ### 🌐 Social / Links
 - [LinkedIn](https://www.linkedin.com/in/soline-durand)  
 - [Malt](https://www.malt.fr/profile/solinedurand)  
 - [Dev.to](https://dev.to/solined)  
 - [Medium](https://medium.com/@solined_jobit)
+
 
 <!---## 👋 Hi, I’m Soline Durand (@solined) – 
 ## 👋 Hi, I’m Digital Forensic Analyst – Automation, DevOps & Data

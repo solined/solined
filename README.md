@@ -1,11 +1,5 @@
 *[🇫🇷](./README_FR.md)*
 
-<!---## 👋 Hi, I’m Soline Durand (@solined) – 
-## 👋 Hi, I’m Digital Forensic Analyst – Automation, DevOps & Data
-🔍 Digital Forensic Analyst ⚙️ Automation, DevOps 📊 Data 💻 Backend PHP/Symfony
---->
-
-
 ## Digital Forensic Analyst – *Automation, DevOps & Data 💻 Backend Dev*
 IT professional with 10+ years in backend development.  
 Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
@@ -55,7 +49,10 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 - 🔗 [Dev.to](https://dev.to/solined)  
 - 🔗 [Medium](https://medium.com/@solined_jobit)
 
-
+<!---## 👋 Hi, I’m Soline Durand (@solined) – 
+## 👋 Hi, I’m Digital Forensic Analyst – Automation, DevOps & Data
+🔍 Digital Forensic Analyst ⚙️ Automation, DevOps 📊 Data 💻 Backend PHP/Symfony
+--->
 <!---
 ## 🌐 Social / Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soline-durand)  

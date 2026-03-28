@@ -1,13 +1,8 @@
 ## 👋 Bonjour, je suis Soline Durand
 
-🔗 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
+Analyste Forensic Numérique | Automation, DevOps & Data | Dev Backend PHP/Symfony – Reporting – Missions 2j/sem Remote  
 
----
-
-## 💼 Qui je suis
-Analyste Forensic Numérique | Automation, DevOps & Data | Dev Backend PHP/Symfony | Reporting | Missions 2j/sem Remote  
-
-Professionnelle IT avec plus de 10 ans d’expérience en développement logiciel et projets backend.  
+**Professionnelle IT avec plus de 10 ans d’expérience en développement logiciel et projets backend.**  
 Spécialisée en **investigation numérique (forensic)**, **automatisation de workflows**, **analyse de données** et **rédaction de rapports techniques**.
 
 📄 Concrètement :
@@ -18,15 +13,16 @@ Spécialisée en **investigation numérique (forensic)**, **automatisation de wo
 - parfois utilisables en justice ou assurance
 <!---  --->
 
+🔗 **[Portfolio : Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)**
+
 ---
 
 ### 🛠 Compétences & Expertise
-- **Analyse Forensic** : Autopsy, Sleuth Kit, timelines, extraction et interprétation d’artefacts numériques
-- **Investigation numérique (forensic)** : analyse d’images disque, artefacts, timeline (Autopsy, Sleuth Kit)  
+- **Analyse & Investigation Forensic** : Autopsy, Sleuth Kit, timelines, extraction et interprétation d’artefacts numériques
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, intégration API  
 - **Développement & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, API REST  
 - **Analyse de données & Reporting** : pipelines structurés, extraction, interprétation et automatisation des rapports  
-
+<!---- **Investigation numérique (forensic)** : analyse d’images disque, artefacts, timeline (Autopsy, Sleuth Kit)  --->
 ---
 
 ### 🌐 Liens / Réseaux

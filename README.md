@@ -1,6 +1,6 @@
 *[🇫🇷](./README_FR.md)*
 
-## Digital Forensic Analyst – *Automation, DevOps & Data 💻 Backend Dev*
+## Digital Forensic Analyst – *Automation, DevOps & Data (and Dev)*
 IT professional with 10+ years in backend development.  
 Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
 
@@ -19,10 +19,10 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 
 ---
 
-### 💞️ I’m looking to collaborate
-- Digital Forensic analysis projects
-- Automation workflows & data pipelines
-- Open source tools in cybersecurity / data analysis
+### 💼 Open to opportunities
+- Digital forensic analysis missions  
+- Automation workflows & data pipelines  
+- Technical analysis & reporting projects  
 
 ---
 
@@ -32,22 +32,11 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 
 ---
 
-### 🔗 Portfolio & Projects
-- [Portfolio Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
-
-### Highlights
-- **API Portfolio (Symfony)** – CRUD REST, OpenAPI, Docker, services, validation
-- **n8n Workflows & Automation** – triggers, HTTP, error handling, retries, pagination
-- **Mini-Forensic / Data Analysis** – Autopsy, Sleuth Kit, timelines, artefacts extraction
-- **Data & OSINT Analysis** : project birds migration
-- 
----
-
 ### 🌐 Social / Links
-- 🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
-- 🔗 [Malt](https://www.malt.fr/profile/solinedurand)  
-- 🔗 [Dev.to](https://dev.to/solined)  
-- 🔗 [Medium](https://medium.com/@solined_jobit)
+🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
+🔗 [Malt](https://www.malt.fr/profile/solinedurand)  
+🔗 [Dev.to](https://dev.to/solined)  
+🔗 [Medium](https://medium.com/@solined_jobit)
 
 <!---## 👋 Hi, I’m Soline Durand (@solined) – 
 ## 👋 Hi, I’m Digital Forensic Analyst – Automation, DevOps & Data

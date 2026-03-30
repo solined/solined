@@ -5,6 +5,15 @@ Analyste Forensic Numérique | Automation, DevOps & Data | Dev Backend PHP/Symfo
 **Professionnelle IT avec plus de 10 ans d’expérience en développement logiciel et projets backend.**  
 Spécialisée en **investigation numérique (forensic)**, **automatisation de workflows**, **analyse de données** et **rédaction de rapports techniques**.
 
+<!--- 
+✨ Version optimisée (FR)
+--->
+**Analyste Forensic & Automatisation – DevOps, Backend & Data**  
+Professionnel IT avec plus de 10 ans d’expérience en développement backend et automatisation.  
+Spécialisé en investigation numérique (forensic), extraction d’artefacts, analyse de logs, timelines, et production de rapports techniques.  
+Compétences transverses en workflows automatisés, pipelines data, DevOps et développement backend.  
+<!---  --->
+
 📄 Concrètement :
 - rapports d’analyse disque / mémoire
 - timelines d’événements
@@ -17,7 +26,12 @@ Spécialisée en **investigation numérique (forensic)**, **automatisation de wo
 
 ---
 
-### 🛠 Compétences & Expertise
+### 🛠 Compétences clés & Expertise
+- **Forensic & DFIR** : Autopsy, Sleuth Kit, extraction d’artefacts, timelines, analyse de disques et logs  
+- **Automatisation / DevOps** : n8n, GitHub Actions, Docker, intégration API  
+- **Développement backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
+- **Data & Reporting** : pipelines structurés, extraction, interprétation, reporting automatisé  
+<!---  --->
 - **Analyse & Investigation Forensic** : Autopsy, Sleuth Kit, timelines, extraction et interprétation d’artefacts numériques
 - **Automation & DevOps** : n8n, GitHub Actions (CI/CD), Docker, intégration API  
 - **Développement & Backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, API REST  
@@ -26,12 +40,21 @@ Spécialisée en **investigation numérique (forensic)**, **automatisation de wo
 
 ---
 
-### 🔥 Points forts / Projets
+### 🔥 Projets marquants
+- **API Portfolio (Symfony**) – REST, OpenAPI, Docker
+- **Workflows n8n** – automatisation, gestion d’erreurs, pagination
+- **Mini-Forensic / OSINT** – timelines, artefacts, extraction et analyse
+
 - **API Portfolio (Symfony)** – CRUD REST, OpenAPI, Docker, services, validation  
 - **n8n Workflows & Automation** – triggers, HTTP, gestion d'erreurs, retries, pagination  
 - **Mini-Forensic / Data & OSINT Analysis** – Autopsy, Sleuth Kit, timelines, extraction d'artefacts 
 
-### 💼 Ouverte aux opportunités
+### 💼 Ouvert aux missions
+- Investigation numérique / forensic
+- Réponse à incident (DFIR)
+- Automatisation de workflows
+- Pipelines data & reporting technique
+
 - Missions d’analyse forensic numérique  
 - Workflows d’automatisation & pipelines de données  
 - Projets d’analyse technique et de reporting  

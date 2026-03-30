@@ -1,4 +1,4 @@
-*[🇫🇷](./README_FR.md)*
+*[🇫🇷](./README_FR.md)* *[🇫🇷](./foau.md)* *[en(./foau_EN.md)*
 
 <!---## Digital Forensic Analyst – *Automation, DevOps & Data (+ Dev)*--->
 ## Digital Forensic Analyst & Automation Engineer – DevOps, Backend & Data  

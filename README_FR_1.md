@@ -22,3 +22,13 @@ Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec p
 - Collecte et analyse OSINT
 - Automatisation de workflows d’analyse
 - Pipelines data & reporting technique
+
+## 📫 Contact
+- ✉️ **Email** : jobit.solined@gmail.com  
+- 📍 **Localisation** : France — Remote privilégié, hybride possible sur Toulouse
+
+## 🌐 Liens & Réseaux
+- 🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
+- 🧰 [Malt](https://www.malt.fr/profile/solinedurand)  
+- 📝 [Dev.to](https://dev.to/solined)  
+- 📚 [Medium](https://medium.com/@solined_jobit)

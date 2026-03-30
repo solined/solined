@@ -1,13 +1,13 @@
 # Analyste Forensic & Automatisation – DevOps, Backend, Data & OSINT
 
-Spécialiste en investigation numérique et en automatisation, avec plus de dix ans d’expérience en développement backend. Mon travail combine l’analyse forensic (disques, logs, artefacts), la collecte et corrélation de données OSINT, et la création de pipelines automatisés pour accélérer l’investigation et la production de rapports techniques.
+Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec plus de dix ans d’expérience en développement backend. Mon travail combine l’analyse forensic (disques, logs, artefacts), la collecte et corrélation de données OSINT🌐, et la création de pipelines automatisés pour accélérer l’investigation et la production de rapports techniques.
 
 ## Domaines d’expertise
 
-- **Investigation numérique (Forensic / DFIR)** : analyse de disques, logs système, artefacts, reconstruction de timelines, extraction de preuves numériques.
-- **OSINT & Analyse de données** : collecte multi‑sources, extraction automatisée, corrélation, enrichissement, structuration et interprétation.
-- **Automatisation & DevOps** : n8n, GitHub Actions, Docker, intégration API, workflows d’analyse et de reporting.
-- **Développement backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, conception d’API REST et services techniques.
+- 🧪**Investigation numérique (Forensic / DFIR)** : analyse de disques, logs système, artefacts, reconstruction de timelines, extraction de preuves numériques.
+- 🌐**OSINT & Analyse de données** : collecte multi‑sources, extraction automatisée, corrélation, enrichissement, structuration et interprétation.
+- ⚙️ **Automatisation & DevOps** : n8n, GitHub Actions, Docker, intégration API, workflows d’analyse et de reporting.
+- 🛠️**Développement backend** : PHP/Symfony, Java/Spring Boot, Python, C/C++, conception d’API REST et services techniques.
 
 ## Réalisations clés
 

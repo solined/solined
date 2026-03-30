@@ -7,7 +7,7 @@ Specialized in **digital forensics (digital investigation)**, **automation workf
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
 
 ### 🛠 Skills & Expertise
-- **Digital Forensic Analysis**: Autopsy, Sleuth Kit, artefact extraction, timelines, analyse de disques et logs  
+- **Digital Forensic Analysis**: Autopsy, Sleuth Kit, artefact extraction, timelines, disk and log analysis  
 - **Automation & DevOps**: n8n, GitHub Actions (CI/CD), Docker, API integration  
 - **Development & Backend**: PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API  
 - **Data Analysis & Reporting**: structured pipelines, extraction, interpretation, automated reporting

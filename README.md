@@ -24,3 +24,13 @@ Digital investigator🔍 with a strong background in backend engineering and wor
 - OSINT collection & analysis
 - Automated investigation workflows
 - Data pipelines & technical reporting
+
+### 📫 Contact
+- ✉️ **Email** : jobit.solined@gmail.com  
+- 📍 Localisation : France — Remote preferred, hybrid Toulouse possible  
+
+### 🌐 Social / Links
+- 🔗[LinkedIn](https://www.linkedin.com/in/soline-durand)  
+- 🧰[Malt](https://www.malt.fr/profile/solinedurand)  
+- 📝[Dev.to](https://dev.to/solined)  
+- 📚[Medium](https://medium.com/@solined_jobit)

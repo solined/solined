@@ -32,5 +32,5 @@ Digital investigator🔍 with a strong background in backend engineering and wor
 ## 🌐 Social / Links
 🔗[LinkedIn](https://www.linkedin.com/in/soline-durand)  
 🧰[Malt](https://www.malt.fr/profile/solinedurand)  
-📝[Dev.to](https://dev.to/solined)
+📝[Dev.to](https://dev.to/solined)  
 📚[Medium](https://medium.com/@solined_jobit)

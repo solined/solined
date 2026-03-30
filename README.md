@@ -1,6 +1,7 @@
 *[🇫🇷](./README_FR.md)*
 
-## Digital Forensic Analyst – *Automation, DevOps & Data (+ Dev)*
+<!---## Digital Forensic Analyst – *Automation, DevOps & Data (+ Dev)*--->
+## Digital Forensic Analyst & Automation Engineer – DevOps, Backend & Data  
 **IT professional with 10+ years in backend development.**  
 Specialized in **digital forensics (digital investigation)**, **automation workflows**, **data analysis**, and **technical reporting**.
 

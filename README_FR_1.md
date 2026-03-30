@@ -1,8 +1,8 @@
 # Analyste Forensic & Automatisation – DevOps, Backend, Data & OSINT
 
-Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec plus de dix ans d’expérience en développement backend. Mon travail combine l’analyse forensic (disques, logs, artefacts), la collecte et corrélation de données OSINT🌐, et la création de pipelines automatisés pour accélérer l’investigation et la production de rapports techniques.  
-
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
+
+Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec plus de dix ans d’expérience en développement backend. Mon travail combine l’analyse forensic (disques, logs, artefacts), la collecte et corrélation de données OSINT🌐, et la création de pipelines automatisés pour accélérer l’investigation et la production de rapports techniques.  
 
 ## Domaines d’expertise
 
@@ -30,6 +30,7 @@ Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec p
 - 📍 **Localisation** : France — Remote privilégié, hybride possible sur Toulouse
 
 ## 🌐 Liens & Réseaux
+- 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
 - 🧰 [Malt](https://www.malt.fr/profile/solinedurand)  
 - 📝 [Dev.to](https://dev.to/solined)  

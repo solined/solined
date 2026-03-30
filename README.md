@@ -4,6 +4,9 @@
 Digital investigator🔍 with a strong background in backend engineering and workflow automation⚙️. My work blends forensic analysis (disk, logs, artefacts), OSINT data collection🌐 and correlation, and automated pipelines designed to accelerate investigations and technical reporting.
 <!--- I combine forensic analysis (disks, logs, artefacts), OSINT data collection 🌐, and automated pipelines to accelerate investigations and technical reporting. --->
 
+🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
+
+
 ## Core expertise
 
 - 🧪**Digital Forensics / DFIR** :  forensic analysis of disks and system logs, artefact extraction, timeline reconstruction, digital evidence processing.

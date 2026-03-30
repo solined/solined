@@ -1,6 +1,8 @@
 # Analyste Forensic & Automatisation – DevOps, Backend, Data & OSINT
 
-Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec plus de dix ans d’expérience en développement backend. Mon travail combine l’analyse forensic (disques, logs, artefacts), la collecte et corrélation de données OSINT🌐, et la création de pipelines automatisés pour accélérer l’investigation et la production de rapports techniques.
+Spécialiste en investigation numérique🔍 et en automatisation⚙️ , avec plus de dix ans d’expérience en développement backend. Mon travail combine l’analyse forensic (disques, logs, artefacts), la collecte et corrélation de données OSINT🌐, et la création de pipelines automatisés pour accélérer l’investigation et la production de rapports techniques.  
+
+🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
 
 ## Domaines d’expertise
 

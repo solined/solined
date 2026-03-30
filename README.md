@@ -21,6 +21,8 @@ Digital investigator🔍 with a strong background in backend engineering and wor
 - Backend API development (Symfony, Java) for structured data processing and reporting.
 - OSINT mini‑projects: automated collection, analysis, enrichment and visualization.
 
+🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
+
 ## Open to opportunities
 
 - Digital forensic analysis

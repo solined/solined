@@ -28,8 +28,8 @@ My work combines **digital forensics (logs, disks, artefacts) 🧪, OSINT data c
 --->
 ## Open to opportunities
 
-- Digital forensic analysis
-- OSINT collection & analysis
+- Digital forensic analysis (post-incident investigations)
+- OSINT collection & analysis & enrichment
 - Automated investigation workflows
 - Data pipelines & technical reporting
 
@@ -39,7 +39,7 @@ My work combines **digital forensics (logs, disks, artefacts) 🧪, OSINT data c
 
 ## 🌐 Social / Links
 - 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
-- 🔗[LinkedIn](https://www.linkedin.com/in/soline-durand)  
-- 🧰[Malt](https://www.malt.fr/profile/solinedurand)  
-- 📝[Dev.to](https://dev.to/solined)  
-- 📚[Medium](https://medium.com/@solined_jobit)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
+- 🧰 [Malt](https://www.malt.fr/profile/solinedurand)  
+- 📝 [Dev.to](https://dev.to/solined)  
+- 📚 [Medium](https://medium.com/@solined_jobit)

@@ -17,11 +17,15 @@ My work combines **digital forensics (logs, disks, artefacts) 🧪, OSINT data c
 
 ## Key projects
 
+- 🧪 Forensic analysis of logs via custom API (structured logging, post-incident analysis)
+- ⚙️ Automated investigation workflows using n8n and Docker
+- 🌐 OSINT collection, correlation and enrichment systems
+<!---
 - Automated forensic/OSINT pipelines using n8n and API integrations.
 - Disk and log forensic analysis with Autopsy and Sleuth Kit, artefact extraction and timeline generation.
 - Backend API development (Symfony, Java) for structured data processing and reporting.
 - OSINT mini‑projects: automated collection, analysis, enrichment and visualization.
-
+--->
 ## Open to opportunities
 
 - Digital forensic analysis

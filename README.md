@@ -1,11 +1,12 @@
 *[🇫🇷](./README_FR_1.md)*  
-# Digital Forensics Engineer | Automation & Data Pipelines – DevOps, Backend, OSINT  
+# Digital Forensics Engineer | Automation & Data Pipelines
 <!--- Digital Forensics Engineer & Automation Engineer – Backend, Data & Investigation Pipelines --->
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
 
 Digital investigator🔍 with a strong background in backend engineering and workflow automation⚙️.  
-I design and build **forensic and data pipelines** to analyze logs, artifacts and systems in post-mortem investigations.  
-My work combines **digital forensics (logs, disks, artefacts), OSINT data collection🌐** and correlation, and **automated pipelines** to accelerate investigations and technical reporting.
+I design and build **systems** to analyze logs, artifacts and technical data in post-incident investigations.  
+
+My work combines **digital forensics (logs, disks, artefacts), OSINT data collection🌐 and correlation**, and **automated data pipelines** to accelerate investigations and technical reporting.
 
 ## Core expertise
 

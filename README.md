@@ -1,19 +1,19 @@
 *[🇫🇷](./README_FR_1.md)*  
 # Digital Forensics Engineer | Data Pipelines & Automation
-<!--- Digital Forensics Engineer & Automation Engineer – Backend, Data & Investigation Pipelines --->
+
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
 
-Digital investigator🔍 with a strong background in backend engineering and workflow automation⚙️.  
+Digital investigator🔍 with a strong background in **backend engineering** and workflow automation⚙️.  
 I design and build **systems** to analyze logs, artifacts and technical data in post-incident investigations.  
 
 My work combines **digital forensics (logs, disks, artefacts), OSINT data collection🌐 and correlation**, and **automated data pipelines** to accelerate investigations and technical reporting.
 
 ## Core expertise
 
-- 🧪**Digital Forensics / DFIR** :  forensic analysis of disks and system logs, artefact extraction, timeline reconstruction, digital evidence processing.
-- 🌐**OSINT & Data Analysis** : multi‑source collection, automated extraction, correlation, enrichment, structured interpretation
-- ⚙️**Automation & DevOps** : n8n workflows, GitHub Actions, Docker, API integration, automated reporting pipelines.
-- 🛠️**Backend Development** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API design and technical services.
+- 🧪**Digital Forensics** : forensic analysis of logs and disks, artifact extraction, timeline reconstruction, digital evidence processing.
+- 🌐**OSINT & Data Analysis** : multi‑source data collection, correlation, enrichment and structured analysis.
+- ⚙️**Automation & Data Pipelines** : n8n, Docker-based workflows, log ingestion, parsing, and automated investigation pipelines.
+- 🛠️**Backend Engineering** : PHP/Symfony, Java/Spring Boot, Python, C/C++, REST API design and data processing services.
 
 ## Key projects
 

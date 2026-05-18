@@ -1,5 +1,8 @@
 *[🇫🇷](./README_FR_1.md)*  
 # Data Forensic Engineer | Pipelines & Automation
+<!--- # Digital Forensics Engineer | Data Pipelines & Automation --->
+
+<!--- Data Forensic Engineer | Building automated investigation systems --->
 
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
 <!---
@@ -31,7 +34,7 @@ I design and develop systems to extract, parse, structure and analyze digital ar
 **Core expertise:**  
 • **Digital Forensics**: Disk imaging (E01), artifact extraction (Sleuth Kit), timeline reconstruction, automated parsing  
 • **OSINT & Data Collection**: Multi-source data gathering, correlation and enrichment  
-• **Automation & Data Pipelines**: n8n workflows, Docker, custom Python parsers, data structuring and storage  
+• **Automation & Data Pipelines**: n8n workflows, Docker-based forensic tools, custom Python parsers, data structuring and storage  
 • **Backend Engineering**: PHP/Symfony, Python, REST API design, technical reporting  
 
 **Key projects**
@@ -39,25 +42,10 @@ I design and develop systems to extract, parse, structure and analyze digital ar
 - Development of automated investigation pipelines and secure APIs
 
 **Open to opportunities**
-Missions in digital forensics, post-incident investigations, OSINT analysis and automation of forensic workflows (freelance / portage).
+Missions in digital forensics, post-incident investigations, expert reports, OSINT analysis and automation of forensic workflows (freelance / portage).
 
 📍 France — Remote preferred, hybrid Toulouse possible  
 ✉️ jobit.solined@gmail.com
-
----
-
-<!--- # Digital Forensics Engineer | Data Pipelines & Automation --->
-Data Forensic Engineer | Building automated investigation systems  
-
-    I design and develop forensic data pipelines to extract, parse, and analyze digital evidence from disks, logs and artifacts.  
-
-Specialized in timeline reconstruction, automated reporting and technical analysis for insurance companies, expertise firms and private investigations.  
-
-## Core expertise:  
-• **Automation & Pipelines**: Custom Python parsers, n8n workflows, Docker-based forensic tools  
-
-## Open to opportunities
-Open to missions in digital forensics, incident response and expert reports (freelance / portage).  
 
 <!---
   ---

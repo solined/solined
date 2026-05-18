@@ -22,3 +22,12 @@ Missions en forensic digital, investigations post-incident, expert reports, OSIN
 
 📍 **France** — Remote preferred, hybrid Toulouse possible  
 ✉️ jobit.solined@gmail.com
+
+---
+
+### 🌐 Social / Links
+- 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/soline-durand)  
+- 🧰 [Malt](https://www.malt.fr/profile/solinedurand)  
+- 📝 [Dev.to](https://dev.to/solined)  
+- 📚 [Medium](https://medium.com/@solined_jobit)

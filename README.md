@@ -19,7 +19,7 @@ I design and develop systems to extract, parse, structure and analyze digital ar
 - Development of automated investigation pipelines and secure APIs
 
 **Open to opportunities**  
-Missions in digital forensics, post-incident investigations, expert reports, OSINT analysis and automation of forensic workflows (freelance / portage).
+Missions in digital forensics, post-incident investigations, expert reports, OSINT analysis and automation of forensic workflows (freelance/portage).
 
 📍 France — Remote preferred, hybrid Toulouse possible  
 ✉️ jobit.solined@gmail.com

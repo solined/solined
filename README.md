@@ -1,29 +1,63 @@
 *[🇫🇷](./README_FR_1.md)*  
-<!--- # Digital Forensics Engineer | Data Pipelines & Automation --->
 # Data Forensic Engineer | Pipelines & Automation
 
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
+<!---
+Data Forensic Engineer spécialisé dans la conception de pipelines automatisés pour l’analyse de données numériques.  
 
+Je construis des systèmes qui extraient, structurent et analysent des preuves digitales (disques, logs, artefacts) afin d’accélérer les investigations post-incident.  
+
+**Core expertise:**  
+• **Digital Forensics** : Analyse d’images disque (E01), extraction d’artefacts (Sleuth Kit), reconstruction de timelines, parsing automatisé  
+• **OSINT & Data Collection** : Collecte et corrélation multi-sources  
+• **Automation & Data Pipelines** : n8n, Docker, Python parsers, structuration et stockage des données  
+• **Backend Engineering** : PHP/Symfony, Python, API design, reporting technique  
+
+**Key projects**
+- Construction d’une toolchain complète d’analyse forensic (Sleuth Kit → Parser Python → Timeline + Visualisations + Rapports)  
+- Développement d’API et pipelines d’automatisation pour investigations  
+
+**Open to opportunities**  
+Missions en forensic digital, investigations post-incident, OSINT et automation de processus d’analyse (freelance / portage).  
+
+📍 France — Remote preferred, hybrid Toulouse possible  
+✉️ jobit.solined@gmail.com
+--->
+
+**Data Forensic Engineer** specialized in building automated pipelines for digital evidence analysis.
+
+I design and develop systems to extract, parse, structure and analyze digital artifacts from disks, logs and various sources, in order to accelerate post-incident investigations and technical reporting.
+
+**Core expertise:**  
+• **Digital Forensics**: Disk imaging (E01), artifact extraction (Sleuth Kit), timeline reconstruction, automated parsing  
+• **OSINT & Data Collection**: Multi-source data gathering, correlation and enrichment  
+• **Automation & Data Pipelines**: n8n workflows, Docker, custom Python parsers, data structuring and storage  
+• **Backend Engineering**: PHP/Symfony, Python, REST API design, technical reporting  
+
+**Key projects**
+- Complete forensic analysis toolchain (Sleuth Kit → Python Parser → Timeline + Visualizations + Reports)
+- Development of automated investigation pipelines and secure APIs
+
+**Open to opportunities**
+Missions in digital forensics, post-incident investigations, OSINT analysis and automation of forensic workflows (freelance / portage).
+
+📍 France — Remote preferred, hybrid Toulouse possible  
+✉️ jobit.solined@gmail.com
+
+---
+
+<!--- # Digital Forensics Engineer | Data Pipelines & Automation --->
 Data Forensic Engineer | Building automated investigation systems  
 
-I design and develop forensic data pipelines to extract, parse, and analyze digital evidence from disks, logs and artifacts.  
+    I design and develop forensic data pipelines to extract, parse, and analyze digital evidence from disks, logs and artifacts.  
 
 Specialized in timeline reconstruction, automated reporting and technical analysis for insurance companies, expertise firms and private investigations.  
 
 ## Core expertise:  
-• **Digital Forensics**: Disk imaging (E01), artifact extraction (Sleuth Kit), timeline analysis  
 • **Automation & Pipelines**: Custom Python parsers, n8n workflows, Docker-based forensic tools  
-• **Backend & Data Engineering**: PHP/Symfony, Python, API development, structured reporting  
-
-## Key projects
-Currently building a complete forensic analysis toolchain (Sleuth Kit → Python Parser → Timeline + Visualizations + Reports).  
 
 ## Open to opportunities
 Open to missions in digital forensics, incident response and expert reports (freelance / portage).  
-
-## 📫 Contact
-📍 France — Remote preferred, hybrid Toulouse possible  
-✉️ jobit.solined@gmail.com
 
 <!---
   ---

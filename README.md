@@ -4,25 +4,25 @@
 
 🔗 **Portfolio:** [Automation & Forensic](https://github.com/solined/PORTFOLIO-automation-forensic)  
 
-Data Forensic Engineer | Building automated investigation systems
+Data Forensic Engineer | Building automated investigation systems  
 
-I design and develop forensic data pipelines to extract, parse, and analyze digital evidence from disks, logs and artifacts.
+I design and develop forensic data pipelines to extract, parse, and analyze digital evidence from disks, logs and artifacts.  
 
-Specialized in timeline reconstruction, automated reporting and technical analysis for insurance companies, expertise firms and private investigations.
+Specialized in timeline reconstruction, automated reporting and technical analysis for insurance companies, expertise firms and private investigations.  
 
-## Core expertise:
-• **Digital Forensics**: Disk imaging (E01), artifact extraction (Sleuth Kit), timeline analysis
-• **Automation & Pipelines**: Custom Python parsers, n8n workflows, Docker-based forensic tools
-• **Backend & Data Engineering**: PHP/Symfony, Python, API development, structured reporting
+## Core expertise:  
+• **Digital Forensics**: Disk imaging (E01), artifact extraction (Sleuth Kit), timeline analysis  
+• **Automation & Pipelines**: Custom Python parsers, n8n workflows, Docker-based forensic tools  
+• **Backend & Data Engineering**: PHP/Symfony, Python, API development, structured reporting  
 
 ## Key projects
-Currently building a complete forensic analysis toolchain (Sleuth Kit → Python Parser → Timeline + Visualizations + Reports).
+Currently building a complete forensic analysis toolchain (Sleuth Kit → Python Parser → Timeline + Visualizations + Reports).  
 
 ## Open to opportunities
-Open to missions in digital forensics, incident response and expert reports (freelance / portage).
+Open to missions in digital forensics, incident response and expert reports (freelance / portage).  
 
 ## 📫 Contact
-📍 France — Remote preferred, hybrid Toulouse possible
+📍 France — Remote preferred, hybrid Toulouse possible  
 ✉️ jobit.solined@gmail.com
 
 <!---

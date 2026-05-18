@@ -18,7 +18,7 @@ I design and develop systems to extract, parse, structure and analyze digital ar
 - Complete forensic analysis toolchain (Sleuth Kit → Python Parser → Timeline + Visualizations + Reports)
 - Development of automated investigation pipelines and secure APIs
 
-**Open to opportunities**
+**Open to opportunities**  
 Missions in digital forensics, post-incident investigations, expert reports, OSINT analysis and automation of forensic workflows (freelance / portage).
 
 📍 France — Remote preferred, hybrid Toulouse possible  

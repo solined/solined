@@ -18,7 +18,7 @@ conçois et développe des systèmes qui extraient, structurent et analysent des
 - Développement de pipelines d’automatisation et d’API sécurisées pour investigations  
 
 ### **Open to opportunities**  
-Missions en forensic digital, investigations post-incident, expert reports, OSINT et automation de processus d’analyse (freelance / portage).  
+Missions en forensic digital, investigations post-incident, expert reports, OSINT et automation de processus d’analyse (freelance/portage).  
 
 📍 **France** — Remote preferred, hybrid Toulouse possible  
 ✉️ jobit.solined@gmail.com

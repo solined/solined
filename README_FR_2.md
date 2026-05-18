@@ -7,7 +7,7 @@ Data Forensic Engineer spécialisé dans la conception de pipelines automatisés
 
 conçois et développe des systèmes qui extraient, structurent et analysent des artefacts digitaux (disques, logs, artefacts) afin d’accélérer les investigations post-incident et la production de rapports techniques.  
 
-**Core expertise:**  
+### **Core expertise:**  
 • **Digital Forensics** : Analyse d’images disque (E01), extraction d’artefacts (Sleuth Kit), reconstruction de timelines, parsing automatisé  
 • **OSINT & Data Collection** : Collecte et corrélation multi-sources  
 • **Automation & Data Pipelines** : n8n, Docker, parsers Python personnalisés, structuration et stockage des données  
